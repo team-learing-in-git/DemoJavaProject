@@ -5,7 +5,7 @@ public class TestFirst {
 	{
 		System.out.println("Hello from master branch");
 		
-		SYstem.out.println("This changes for adding new other member changes");
+		System.out.println("This changes for adding new other member changes");
 
 	}
 
